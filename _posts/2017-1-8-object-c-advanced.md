@@ -213,7 +213,7 @@ Core Foundation 对象和 Objective-C 对象没有区别，不同之处只是由
 `objc_autoreleaseReturnValue `和`objc_retainAutoreleasedReturnValue `是成对出现的。在对象返回处调用`objc_autoreleaseReturnValue `，并且强引用的时候紧接着会调用`objc_retainAutoreleasedReturnValue `。
 系统会对这个其中赋值过程进行优化。
 
-![过程图解.png](http://upload-images.jianshu.io/upload_images/809311-a54e73b899fe8b76.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![过程图解.png](/img/2017-1-8-object-c-advanced.png)
 
 ### weak 修饰符
 weak 对象流程
