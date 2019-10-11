@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Block"
+title: "MBProgressHUD"
 author: "Damien"
 # catalog: true
 tags:
