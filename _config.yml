@@ -3,7 +3,7 @@ title: Damien's Blog
 SEOTitle: 马增翼的博客 | Damien's Blog
 header-img: img/home-bg.jpg
 email: m.zengyi@gmail.com
-description: ""
+description: "海阔凭鱼跃 天高任鸟飞"
 keyword: ""
 url: "http://huangxuan.me"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -81,7 +81,7 @@ sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in bot
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 0              # A tag will be featured if the size of it is more than this condition value
 
 
 
