@@ -376,24 +376,27 @@ Dark Theme适配是一项涉及多职能部门合作的庞大项目。在规范�
 Trip.com一直致力于追随前沿新特性，带给用户最好的体验，让用户更舒适，旅行从此简单。
 
 ## 参考资料
-Apple Dark Mode介绍：
+- Apple Dark Mode介绍：
 https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/dark-mode/
-
-Implementing Dark Mode on iOS - WWDC2019：
+- Implementing Dark Mode on iOS - WWDC2019：
 https://developer.apple.com/videos/play/wwdc2019/214/
-
-Android Dark Theme 介绍：
+- Android Dark Theme 介绍：
 https://developer.android.com/guide/topics/ui/look-and-feel/darktheme
 
-React Native 参考：
-https://github.com/react-native-community/discussions-and-proposals/pull/11#discussion_r210370835
-https://github.com/facebook/react-native/commit/63fa3f21c5ab308def450bffb22054241a8842ef#diff-55c2992d993407398c62bf19f803088f
-https://github.com/Lxxyx/react-native-dynamic-stylesheet
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get
-https://medium.com/fantageek/how-to-structure-your-project-and-manage-static-resources-in-react-native-6f4cfc947d92
-https://willowtreeapps.com/ideas/react-native-tips-and-tricks-2-0-managing-static-assets-with-absolute-paths
+- React Native 参考：
 
-WCAG21视觉标准：
-https://www.w3.org/TR/WCAG21/#contrast-enhanced
+    https://github.com/react-native-community/discussions-and-proposals/pull/11#discussion_r210370835
+
+    https://github.com/facebook/react-native/commit/63fa3f21c5ab308def450bffb22054241a8842ef#diff-55c2992d993407398c62bf19f803088f
+
+    https://github.com/Lxxyx/react-native-dynamic-stylesheet
+
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get
+
+    https://medium.com/fantageek/how-to-structure-your-project-and-manage-static-resources-in-react-native-6f4cfc947d92
+
+    https://willowtreeapps.com/ideas/react-native-tips-and-tricks-2-0-managing-static-assets-with-absolute-paths
+- WCAG21视觉标准：
+    https://www.w3.org/TR/WCAG21/#contrast-enhanced
 
 
